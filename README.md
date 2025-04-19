@@ -56,9 +56,9 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** who loves
 ## 📫 Connect with Me
 
 - 🌐 **Website:** [shabbir-portfolio.com](#)
-- 💼 **LinkedIn:** [linkedin.com/in/shabbiragharia](#)
+- 💼 **LinkedIn:** [linkedin.com/in/shabbiragharia](https://www.linkedin.com/in/shabbirabbas-agharia-268575249/)
 - 🐦 **Twitter:** [twitter.com/shabbiragharia](#)
-- 📧 **Email:** [shabbirabbas2004@gmail.com](mailto:shabbiragharia@example.com)
+- 📧 **Email:** [shabbirabbas2004@gmail.com](mailto:shabbirabbas2004@gmail.com)
 
 ---
 
